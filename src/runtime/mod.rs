@@ -1,4 +1,5 @@
 pub mod abs;
+pub mod clamp;
 pub mod input;
 pub mod max;
 pub mod min;
