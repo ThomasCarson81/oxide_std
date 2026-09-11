@@ -6,4 +6,5 @@ pub mod min;
 pub mod print;
 pub mod string_manip;
 pub mod time;
+pub mod to_nums;
 pub mod to_string;
